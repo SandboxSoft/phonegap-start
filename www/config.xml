@@ -6,14 +6,14 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>MoneyKPro2</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Financial App by Kopasoft
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://www.sandboxsoft.co.uk" email="support@phonegap.com">
+        Kopasoft SandboxSoft
     </author>
 
     <!--
